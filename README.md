@@ -25,9 +25,8 @@
 1. [Models](#models)
 1. [Training](#training)
 1. [Testing](#testing)
-<!-- 1. [Citation](#citation) -->
 1. [Acknowledgements](#acknowledgements)
-
+<!-- 1. [Citation](#citation) -->
 ---
 
 ## <a name="datasets"></a>🖨️ Datasets
