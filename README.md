@@ -2,7 +2,7 @@
 
 ## Overview
 <p align='center'>  
-  <img src='./Figures/arch.jpg' width='870'/>
+  <img src='Figures/arch.jpg' width='870'/>
 </p>
 
 ## ⚙️ Dependencies
