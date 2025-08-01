@@ -15,9 +15,9 @@
 
 ## ⚒️ TODO
 
-* [ ] Training Code
-* [ ] Testing Code
-* [ ] Pre-trained Models
+*[]Training Code
+*[]Testing Code
+*[]Pre-trained Models
 
 ## 🔗 Contents
 
